@@ -8,3 +8,4 @@ public class CategoriaController : ControllerBase
     {
         _context = context;
     }
+}    
